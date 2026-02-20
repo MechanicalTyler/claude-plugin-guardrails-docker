@@ -1,0 +1,11 @@
+{
+  "name": "guardrails-docker",
+  "description": "Docker safety guards for Claude: enforces timeout on docker build commands",
+  "version": "1.0.0",
+  "author": {
+    "name": "MechanicalTyler",
+    "email": ""
+  },
+  "license": "MIT",
+  "keywords": ["guardrails", "safety", "docker", "hooks", "timeout"]
+}
